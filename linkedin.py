@@ -23,7 +23,6 @@ time.sleep(3)
 
 # Cycle through each connection's picture
 for i in range(0,600):
-
     print "On loop #" + str(i)
 
     profile = driver.find_elements_by_class_name('lazy-image')
