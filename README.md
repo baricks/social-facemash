@@ -6,7 +6,7 @@ There are a few different Python scripts you can run. One lets you download all 
 
 Once you have a folder of images, you can run "facemash.py", which will identify the face in each picture and then overlay the face on top of each other.
 
-Thanks to these instructions from Leon Eckart: https://github.com/leoneckert/facemash-workshop
+Thanks to Leon Eckert for this helpful workshop: https://github.com/leoneckert/facemash-workshop
 
 ##Instructions
 
