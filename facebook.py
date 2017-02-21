@@ -45,7 +45,7 @@ driver.get("http://www.facebook.com/login")
 
 # Log into Facebook
 login = driver.find_element_by_css_selector('#email')
-login.send_keys(' ')
+login.send_keys('baricks@gmail.com')
 password = driver.find_element_by_css_selector('#pass')
 password.send_keys(' ')
 password.send_keys(Keys.RETURN)

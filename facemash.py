@@ -114,3 +114,4 @@ for img_file in os.listdir(folder):
     count += 1
 
 cv2.waitKey(0)
+cv2.quit()
