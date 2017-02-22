@@ -1,7 +1,0 @@
-1487780357524	geckodriver	INFO	Listening on 127.0.0.1:62253
-1487780358681	mozprofile::profile	INFO	Using profile path /var/folders/xl/xswpltqn02xbnrlx_nv06wsc0000gn/T/rust_mozprofile.E0TTxDbPXXyB
-1487780358684	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
-1487780358692	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62262
-1487780359981	Marionette	INFO	Listening on port 62262
-[Child 31827] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
-[Child 31827] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
