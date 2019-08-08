@@ -8,7 +8,7 @@ Once you have a folder of images, you can run "facemash.py", which will identify
 
 Thanks to Leon Eckert for this helpful workshop: https://github.com/leoneckert/facemash-workshop
 
-##Instructions
+## Instructions
 
 **Dependencies**
 
